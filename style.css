@@ -1,0 +1,102 @@
+body{
+    background-color: rgb(180, 180, 180);
+}
+.valanta{
+    background-color: white;
+    width: 1000px;
+    height: 100px;
+}
+img{
+  position: absolute;
+    width: 131px;
+    height: 72px;
+    top: 17px;
+    left: 100px;
+}
+.hr{
+    position: absolute;
+    width: 1px;
+    height: 40px;
+    left: 258px;
+    top: 31px;
+    background-color: gray;
+}
+h4{
+    position: absolute;
+    width: 22px;
+    height: 21px;
+    left: 285px;
+    top: 10px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: center;
+}
+.ru{
+    position: absolute;
+    width: 35px;
+    height: 20px;
+    left: 279px;
+    top: 51px;
+    background-color: #4ad295;
+}
+p{
+    position: absolute;
+    width: 24px;
+    height: 21px;
+    left: 5px;
+    top: -15px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 21px;
+  color: white;
+}
+.hr2{
+    position: absolute;
+    width: 1px;
+    height: 40px;
+    left: 339px;
+    top: 31px;
+    background-color: gray;
+}
+.usd{
+    position: absolute;
+    width: 75px;
+    height: 19px;
+    left: 365px;
+    top: 20px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 19px;
+    color: #393939;
+}
+.eur{
+    position: absolute;
+    width: 74px;
+    height: 19px;
+    left: 365px;
+    top: 40px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 19px;
+    color: #393939;
+}
+.hr3{
+    position: absolute;
+    width: 1px;
+    height: 40px;
+    left: 465px;
+    top: 31px;
+    background-color: gray;
+}
+.hr4{
+    position: absolute;
+    width: 1px;
+    height: 40px;
+    left: 601px;
+    top: 31px;
+    background-color: gray;
+}
